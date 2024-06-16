@@ -1,3 +1,3 @@
 # FirstRepository
 This is my first repository on git
-Author - Supriya Kumari
+Author - Supriya Kumari ...
